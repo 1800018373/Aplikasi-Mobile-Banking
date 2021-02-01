@@ -39,3 +39,4 @@ E. Manifest :
   - AndroidManifest.xml
 
 F. Berikut Video saat saya Running di Android Studio :
+![rks](https://user-images.githubusercontent.com/48816136/106430316-3747e100-649e-11eb-9e30-9efaf88c5838.gif) 
