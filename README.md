@@ -2,7 +2,8 @@
 Muhammad Taufiq Insani ( 1800018373 ) 
 Tugas Kuliah
 
-Pada Aplikasi mobile banking ini menggunakan Android Studio yang dimana untuk membuat Front End nya. Pada Front End yang saya bangun ini mengikuti atau sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah saya buat sebelum UAS. Berikut Link folder UTS sebelumnya yg berisi workflow, wireframe, dan dokumentasi kebutuhan : https://drive.google.com/drive/folders/1IXD-QHK_0L_xENNpEdLqJmcY1ZsZVMoS?usp=sharing 
+Pada Aplikasi mobile banking ini menggunakan Android Studio yang dimana untuk membuat Front End nya. Pada Front End yang saya bangun ini mengikuti atau sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah saya buat sebelum UAS. Berikut Link folder UTS sebelumnya yg berisi workflow, wireframe, dan dokumentasi kebutuhan :
+https://drive.google.com/drive/folders/1IXD-QHK_0L_xENNpEdLqJmcY1ZsZVMoS?usp=sharing 
 
 Berikut file file yg digunakan dan dimasukan pada folder berikut :
 
@@ -39,4 +40,5 @@ E. Manifest :
   - AndroidManifest.xml
 
 F. Berikut Video saat saya Running di Android Studio :
+
 ![rks](https://user-images.githubusercontent.com/48816136/106430316-3747e100-649e-11eb-9e30-9efaf88c5838.gif) 
